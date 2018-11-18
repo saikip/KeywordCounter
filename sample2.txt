@@ -1,0 +1,87 @@
+$facebook 5
+$youtube 3
+$facebook 10
+$amazon 2
+$gmail 4
+$weather 2
+$facebook 6
+$youtube 8
+$ebay 2
+$news 2
+$facebook 12
+$youtube 11
+$amazon 6 
+3
+$facebook 12
+4
+$amazon 2
+$stop 3
+$playing 4
+$gmail 15
+$drawing 3
+$cnn 25
+$weather 12
+$ebay 12
+$netflix 6
+$cnn 5
+12
+$president 7
+$cholinergic 2
+$india 5
+$instagram 1
+$florida 20
+$dreams 5
+$snapchat 10
+$protien 5
+$chokefull 1
+$choker 1
+$chivalry 3
+$cholera 7
+$workout 10
+$tinder 4
+$choler 7
+$chlorambucil 9
+$bandwith 6
+$chiton 1
+$chloride 9
+$president 8
+$chiseling 4
+$chitty 10
+$cholla 7
+$chirr 6
+$romeo 6
+$chirr 9
+$rainbow 1
+$choirboy 10
+$loveydovey 6
+$chitty 10
+9
+$chlorella 10
+$batshit 5
+$chondritic 2
+$choanocyte 3
+$tinder 5
+$choirboy 10
+$chives 6
+$choctaw 6
+$chives 6
+$oxymoron 6
+$radium 9
+5
+$bandwith 7
+$chokra 2
+$choix 6
+$choker 9
+$choleric 1
+$choir 10
+$florida 9
+$chirurgy 4
+$glycerine 7
+$president 2
+$nonsense 10
+$chirurgy 4
+$instagram 1
+$connundrum 2
+$chokecherry 5
+5
+stop
