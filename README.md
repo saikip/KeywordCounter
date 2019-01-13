@@ -1,11 +1,10 @@
 # Keyword Counter implementation using Max Fibonacci Heap and Hash table
-## (Advanced Data Stuctures Fall 2018 Course Project)
 
 * Name: Priyam Saikia
 * UFID: **** ****
 * Email: priyam.saikia@ufl.edu
 
-# ** ------------  FILES in Zip Folder ------------- **
+# ** ---------------  FILES in Folder ---------------- **
 
 ## Java Files:
 
@@ -36,7 +35,7 @@ output_large.txt -> Output to Sample Test File 3
 *NOTE*: sample1.txt is the one that professor provided us along with the problem
 statement. sample2.txt and sample3.txt are two new test cases.
 
-# ** ------------  Instructions to run -------------  **
+# ** --------------  Instructions to run -------------  **
 1. Login to thunder.cise.ufl.edu 
 2. Extract files from Zip folder
 3. Change directory to corresponding extracted folder 
